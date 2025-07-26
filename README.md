@@ -1,4 +1,4 @@
-# C++_30_Day_Coding_Challenges
+# C++ 30 Days Coding Challenge
 # 🚀 C++ 30 Days Coding Challenge (HackerRank Solutions)
 
 This repository contains my **C++ solutions** for the **HackerRank 30 Days of Code Challenge**.  
